@@ -1,0 +1,21 @@
+:root {
+  --content-wdth: clamp(320px, 100%, 700px);
+  --main-font: 'Inter', sans-serif;
+  --accent-font: 'Press Start 2P', fantasy;
+  --heart-fill: #FF0000;
+
+
+  --normal-wght: 400;
+  --bold-wght: 700;
+  
+  --bg-color:  #FFF;
+  --accent-color: #000;
+  --card-button: #FFF;
+
+  --bg-image: repeating-linear-gradient(to left, #d3d3d3 0 2px, transparent 2px 4px),
+  repeating-linear-gradient(#d3d3d3 0 2px, transparent 2px 4px),
+  linear-gradient(#e7e7e7 0.01%, #1a1a1a);
+
+  --heart-contour: #000;
+  --label-shadow: #FFF;
+}
